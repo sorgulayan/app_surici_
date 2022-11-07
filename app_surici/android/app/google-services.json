@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294577345594",
+    "project_id": "suriciapp-e6d83",
+    "storage_bucket": "suriciapp-e6d83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294577345594:android:5ccbfddfd17808e7fbd103",
+        "android_client_info": {
+          "package_name": "com.example.app_surici"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294577345594-dued1tmnn6iuel84t0ncodob3jnbvil7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpadPbcIwBoI3_Dj17Q9Kojv1eKRL-TYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294577345594-dued1tmnn6iuel84t0ncodob3jnbvil7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
